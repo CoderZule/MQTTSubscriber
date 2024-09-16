@@ -1,4 +1,4 @@
-#MQTT Subscriber - Android Mobile Project
+# MQTT Subscriber - Android Mobile Project
 This project demonstrates a basic MQTT subscriber application developed using Java in Android Studio. The app subscribes to MQTT topics and processes incoming messages based on predefined criteria.
 
 ## Features
